@@ -13,7 +13,7 @@ Parameters:
     Default: Fargate-ECSCluster-Cloudformation
   GithubBranch:
     Type: String
-    Default: <BRANCH>
+    Default: master
   GithubOAuthToken:
     Type: String
     Default: 08efa48802a5952487fa437b9b183c851a36d7f6
